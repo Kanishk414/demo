@@ -1,0 +1,3 @@
+- use case of restcontroller
+- defined MVC architecture
+- completed according to the industry standard.
